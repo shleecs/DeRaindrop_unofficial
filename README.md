@@ -14,10 +14,10 @@ This project is unofficial pytorch implementation version of training parts. If 
 
 ## Additional implemented parts:
 
-train.py: main training source file
-train_module.py: training module 
-loss.py: Loss implementation(GANLoss, AttentionLoss, PerceptualLoss, MultiscaleLoss, MAPLoss)
-train_options.py: Arguments for training
+1. train.py: main training source file
+2. train_module.py: training module 
+3. loss.py: Loss implementation(GANLoss, AttentionLoss, PerceptualLoss, MultiscaleLoss, MAPLoss)
+4. train_options.py: Arguments for training
 
 
 ## Dataset
