@@ -4,7 +4,7 @@ Reference: https://github.com/rui1996/DeRaindrop
 
 ## Description:
 Project version: 0.9.0
-This project is unofficial pytorch implementation version of training parts. If you have any questions of my code, please contact me.(l.sh@yonsei.ac.kr)
+This project is unofficial pytorch implementation version of training parts. If you have any questions about my code, please contact me.(l.sh@yonsei.ac.kr)
 
 ## Prerequisites:
 1. Linux
