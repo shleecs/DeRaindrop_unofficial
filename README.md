@@ -1,4 +1,4 @@
-## Unofficial Version of pytorch implementation: Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR'2018)
+## Unofficial pytorch implementation: Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR'2018)
 
 Reference: https://github.com/rui1996/DeRaindrop
 
