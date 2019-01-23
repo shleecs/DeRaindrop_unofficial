@@ -14,11 +14,7 @@ This project is unofficial pytorch implementation version of training parts. If 
 
 ## Additional implemented parts:
 
-1. train.py: main training source file
-2. train_module.py: training module 
-3. loss.py: Loss implementation(GANLoss, AttentionLoss, PerceptualLoss, MultiscaleLoss, MAPLoss)
-4. train_options.py: Arguments for training
-
+Training source / loss implementation / dataloader ... 
 
 ## Dataset
 The whole dataset can be find in author pages(https://github.com/rui1996/DeRaindrop)
